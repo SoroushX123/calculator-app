@@ -3,7 +3,7 @@
 
 A simple, modern, and responsive calculator app for basic arithmetic operations. Built from scratch using HTML, CSS, and JavaScript—no frameworks involved ✨
 
-🔗 **Live Demo**: [View](https://soroushx123.github.io/calculator-app/)
+
 
 ## ⚙️ Features
 - Clean gradient design with glass-style buttons
@@ -16,8 +16,7 @@ A simple, modern, and responsive calculator app for basic arithmetic operations.
 - HTML5 + CSS3 (with Flexbox and blur effects)
 - Vanilla JavaScript (no external libraries)
 
-## 📸 Preview
-![Preview](./screenshots/demo.png)
+
 
 ## 🚀 Getting Started
 1. Clone or download the repository  
